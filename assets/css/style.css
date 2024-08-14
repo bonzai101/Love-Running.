@@ -110,4 +110,14 @@ footer {
        {
         display:none;
        }
+    #logo {
+        font: size 200px;
+        line: height 75px; ;
+        margin: 0 0.5rem;
+    }
+    /* Main Content */
+    main {
+        /*Push main contentdown to acomodate larger header */
+        margin: top 75px;
+    }
 }
