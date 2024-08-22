@@ -117,7 +117,11 @@ footer {
     }
     /* Main Content */
     main {
-        /*Push main contentdown to acomodate larger header */
+        /*Push main content down to acomodate larger header */
         margin: top 75px;
     }
+}
+/* Media query: Small Laptops (992px and up) */
+{
+
 }
